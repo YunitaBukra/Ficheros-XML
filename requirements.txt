@@ -1,0 +1,16 @@
+# Requerimientos del sistema operativo Pop_OS!
+# Instalar antes de crear el entorno: sudo apt install python3-venv
+
+# Entorno de ejecución
+python-version=3.10.*
+
+# Librerías utilizadas (Todas pertenecen a la biblioteca estándar de Python)
+# - xml.etree.ElementTree (Procesamiento del árbol XML)
+# - xml.dom.minidom (Formateo e indentación del archivo)
+# - datetime (Conversión de fechas a formato ISO xs:date)
+# - os (Gestión de rutas dinámicas de archivos)
+# - csv (Lectura de archivos plano)
+
+# Dependencias para escalamiento futuro
+# flask==3.0.*
+# requests==2.31.*
