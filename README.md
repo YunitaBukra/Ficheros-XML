@@ -1,4 +1,4 @@
-# XML Commerce & HR Management Project
+# Laboratorio: Ficheros XML (HR Oracle Scheme)
 
 Este proyecto consiste en la migración, validación y consulta del esquema relacional HR de Oracle, transformándolo en un modelo jerárquico nativo XML. 
 Para ello, se diseñó un esquema XSD a medida que unifica las tablas relacionales en una estructura de árbol optimizada para consultas.
